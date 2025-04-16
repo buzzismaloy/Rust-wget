@@ -26,3 +26,7 @@ cargo build --release
 ```bash
 ./rust-wget https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh
 ```
+
+## See also
+
+* [Small guide](https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html)
